@@ -1,0 +1,24 @@
+,<?xml version="1.0" encoding="UTF-8"?>
+
+<Users>
+    <User>
+        <Username>Alex</Username>
+        <Password>1111</Password>
+        <Rating>PG13</Rating>
+    </User>
+    <User>
+        <Username>Gina</Username>
+        <Password>2222</Password>
+        <Rating>PG</Rating>
+    </User>
+    <User>
+        <Username>Rex</Username>
+        <Password>3333</Password>
+        <Rating>G</Rating>
+    </User>
+    <User>
+        <Username>q</Username>
+        <Password>q</Password>
+        <Rating>R</Rating>
+    </User>
+</Users>

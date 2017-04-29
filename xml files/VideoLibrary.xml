@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<VideoLibrary>
+    <Video>
+        <Name>Bridge of Spies</Name>
+        <Duration>176</Duration>
+        <Rating>PG13</Rating>
+        <FileName>BridgeOfSpies.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>Carol</Name>
+        <Duration>143</Duration>
+        <Rating>R</Rating>
+        <FileName>Carol.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>Peanuts</Name>
+        <Duration>189</Duration>
+        <Rating>G</Rating>
+        <FileName>Peanuts.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>Revenant</Name>
+        <Duration>143</Duration>
+        <Rating>R</Rating>
+        <FileName>Revenant.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>Ex Machina</Name>
+        <Duration>152</Duration>
+        <Rating>R</Rating>
+        <FileName>Ex Machina.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>Room</Name>
+        <Duration>150</Duration>
+        <Rating>R</Rating>
+        <FileName>Room.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>The Martian</Name>
+        <Duration>197</Duration>
+        <Rating>PG13</Rating>
+        <FileName>The Martian.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>Brooklyn</Name>
+        <Duration>152</Duration>
+        <Rating>PG13</Rating>
+        <FileName>Brooklyn.mp4</FileName>
+    </Video>
+    <Video>
+        <Name>Mad Max: Fury Road</Name>
+        <Duration>151</Duration>
+        <Rating>PG13</Rating>
+        <FileName>Mad Max Fury Road.mp4</FileName>
+    </Video>
+</VideoLibrary>
