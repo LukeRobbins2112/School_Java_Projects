@@ -33,10 +33,7 @@ import javafx.stage.WindowEvent;
 import javafx.util.Duration;
 import project.DoesNotExistException;
 
-/**
- *
- * @author Hieldc
- */
+
 public class MoviePlayer extends Application {
 
 
