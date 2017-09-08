@@ -13,10 +13,7 @@ import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 import project.DoesNotExistException;
 
-/**
- *
- * @author Hieldc
- */
+
 public class LibraryWin extends javax.swing.JFrame {
 
     @SuppressWarnings("unchecked")
