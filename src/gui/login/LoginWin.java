@@ -11,10 +11,7 @@ import java.util.logging.Logger;
 import project.DoesNotExistException;
 
 
-/**
- *
- * @author Hieldc
- */
+
 public class LoginWin extends javax.swing.JFrame {
     
     public LoginWin() {
